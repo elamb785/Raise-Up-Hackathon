@@ -1,0 +1,11 @@
+{
+    "users": [
+        {"id": 1, "firstName": "Test", "lastName": "Tester"}
+    ],
+    "organizations": [
+        {"id": 1, "name": "Test Org"}
+    ],
+    "events": [
+        {"id": 1, "name": "Test Event"}
+    ]
+}
