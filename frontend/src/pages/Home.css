@@ -1,0 +1,8 @@
+.homepage-container {
+    display: flex;
+}
+
+.homepage-events {
+    display: flex;
+    justify-content: space-evenly;
+}

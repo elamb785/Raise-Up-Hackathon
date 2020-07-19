@@ -6,7 +6,7 @@ function Header() {
   return (
     <>
         <Navbar>
-            <Navbar.Brand>Events</Navbar.Brand>
+            <Navbar.Brand>Volunteer Match Depot</Navbar.Brand>
         </Navbar>
     </>
   );
